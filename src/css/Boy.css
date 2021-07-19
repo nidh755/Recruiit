@@ -1,0 +1,29 @@
+.nidhi{
+    border-radius: 0%;
+}
+.previous {
+    background-color: #695af2;
+    color: white;
+    position: absolute;
+    right:105px;
+    font-size: 1.6rem;
+  }
+  
+.next {
+    background-color: #695af2;
+    color: white;
+    position: absolute;
+    right:10px;
+    font-size: 1.6rem;
+  }
+.but {
+    text-decoration: none;
+    display: inline-block;
+    padding: 4px 28px;
+    padding-top: 2px;
+    margin:15px;
+    border: 1px solid white;
+  }
+  .slant{
+    transform: skewY(-6deg);
+}

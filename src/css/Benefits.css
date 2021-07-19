@@ -1,0 +1,27 @@
+.debit{
+    background: linear-gradient( to right,white 20%,#fa4b4b);
+    border-radius: 1rem;
+}
+.slant{
+    transform: skewY(-9deg);
+}
+.slant2{
+    transform: skewY(-4deg);
+}
+.img-fluid1{
+    height: auto;
+    width: 90%;
+}
+.slant3{
+    background: linear-gradient(to top,#F700FF,#82009A,#7B0098,#0033ab 20%);
+    transform: skewY(-4deg);
+}
+.slant4{
+    background: linear-gradient(to bottom,#F700FF,#82009A,#7B0098,#0033ab 20%);
+    transform: skewY(-4deg);
+    
+}
+
+.khire{
+    font-family: 'Noto Sans JP', sans-serif;
+}
